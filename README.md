@@ -140,14 +140,6 @@ labels.extend(["surf_lesson", "scuba_dive"])
 
 ---
 
-## 📚 References
-
-1. Cirolini, R. & Rigo, S. (2024). *Efficient Intent Detection via Vector Retrieval*. UNISINOS.
-2. Larson, S. et al. (2019). *Clinc-OOS Benchmark*. EMNLP.
-3. Reimers, N. & Gurevych, I. (2019). *Sentence-BERT*.
-
----
-
 ## 🤝 Contributions
 
 Feel free to fork this repo or adapt the notebook. For questions or collaboration, contact the authors via the paper or open a discussion.
